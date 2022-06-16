@@ -1,0 +1,12 @@
+#errorMs {
+    color: #a00;
+}
+.gallery img{
+    width: 150px;
+    height: 150px;
+}
+
+
+th{
+    background-color: lightskyblue;
+}
